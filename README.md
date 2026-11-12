@@ -40,7 +40,7 @@ The Student List maps shaded Gender (`M`/`F`) and 2-digit ID bubbles (`01`–`99
 
   Reyes, Maria C.
   Gomez, Sofia D.
-
+  ```
 * **Female-only sections:** Put `NULL` on the first line, followed by a blank line, then the Female names.
 
 ### 3. Build Your Answer Key (`.json`)
@@ -67,6 +67,6 @@ LeafyBeans OMR complies with the **Philippine Data Privacy Act of 2012 (RA 10173
 Developed by **Engr. Kyle Eligoyo, ECE, ECT**
 
 * Website: [https://kyeligoyo.pythonanywhere.com/](https://kyeligoyo.pythonanywhere.com/)
-* Email: [eligoyokyleofficial@gmail.com](https://www.google.com/search?q=mailto%3Aeligoyokyleofficial%40gmail.com)
+* Email: [eligoyokyleofficial@gmail.com](mailto:eligoyokyleofficial@gmail.com)
 
 *Disclaimer: ZipGrade® is a registered trademark of ZipGrade LLC. LeafyBeans OMR is an independent application and is not affiliated with, endorsed by, or sponsored by ZipGrade LLC, Google LLC, or the Department of Education (DepEd).*
