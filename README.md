@@ -17,10 +17,10 @@ Designed as a flexible, teacher-friendly **ZipGrade alternative**, it grades cus
 
 * **Custom Printable Answer Sheets (1–200 Items):** Never get locked into fixed 20, 50, or 100-item templates. Generate custom sheets with **2 to 5 choices (A–E)**, **Horizontal or Vertical** layouts, and choice letters placed either **inside** or **on top of bubbles**.
 * **DepEd-Ready Item Analysis & MPS:** Automatically computes **Mean Percentage Score (MPS)**, Standard Deviation, Median, Percentile Ranks, and **Point-Biserial Discriminant Factors** (`r`) to flag problematic test questions.
-* **Live & Post-Scan Re-Grading:** Spotted a typo in your Answer Key or Student List after scanning 45 papers? Edit or replace the key or roster anytime—every student's score, graded image overlay, and Excel report recalculates automatically without re-scanning.
+* **Live & Post-Scan Re-Grading:** Spotted a typo in your Answer Key or Student List after scanning 45 papers? Edit or replace the key or roster anytime — every student's score, graded image overlay, and Excel report recalculates automatically without re-scanning.
 * **Partial Credit, Custom Weights & Bonus Items:** Assign custom point values per option, allow multiple correct answers (*No incorrect allowed*, *Exact match*, or *Ignore incorrect*), or configure bonus items that credit points without inflating the test's perfect score.
 * **Multi-Section Cross-Batch Reports:** Combine active and archived class batches into a consolidated grade-level analytics report and export formatted **Excel (`.xlsx`)** spreadsheets with Male/Female and missing-student toggles.
-* **100% Client-Side Privacy & Google Drive Sync:** Powered locally by **OpenCV.js** in your browser. Zero student names, test papers, or grades are ever uploaded to a central server—everything is saved directly inside your own Google Drive (`LeafyBeans OMR Workspace`) with one-tap **ZIP backup & restore**.
+* **100% Client-Side Privacy & Google Drive Sync:** Powered locally by **OpenCV.js** in your browser. Zero student names, test papers, or grades are ever uploaded to a central server — everything is saved directly inside your own Google Drive (`LeafyBeans OMR Workspace`) with one-tap **ZIP backup & restore**.
 
 ---
 
