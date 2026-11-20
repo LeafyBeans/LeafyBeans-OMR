@@ -4,7 +4,7 @@
 [![Developer Portfolio](https://img.shields.io/badge/Developer-Engr._Kyle_Eligoyo,_ECE,_ECT-0f172a?style=for-the-badge)](https://kyeligoyo.pythonanywhere.com/)
 [![Platform](https://img.shields.io/badge/Platform-Web_%7C_PWA_(Android,_iOS,_Desktop)-10b981?style=for-the-badge)](#)
 
-**LeafyBeans OMR** is a privacy-first, browser-based Optical Mark Recognition (OMR) scanner and installable Progressive Web App (PWA) built for Philippine educators. 
+**LeafyBeans OMR** is a privacy-first, browser-based Optical Mark Recognition (OMR) scanner and installable Progressive Web App (PWA) built for Philippine educators.
 
 Designed as a flexible, teacher-friendly **ZipGrade alternative**, it grades custom 1-to-200 item bubble sheets in under a second using your phone camera, automatically computes **DepEd-ready Mean Percentage Score (MPS)** and item analysis, and syncs all grading records directly to your personal **Google Drive**.
 
@@ -44,12 +44,20 @@ The Student List maps shaded Gender (`M`/`F`) and 2-digit ID bubbles (`01`–`99
 * **Female-only sections:** Put `NULL` on the first line, followed by a blank line, then the Female names.
 
 ### 3. Build Your Answer Key (`.json`)
-
 Tap **+** under **Answer Key**, enter your item count, and tap the correct bubble letters (`A`–`E`). Click the gear icon on any question to configure custom option weights, multiple-answer rules, or bonus items.
 
 ### 4. Scan & Export
-
 Select your Answer Key, Student List, and Sheet Layout, then tap **Start Scanning**. Align the 4 black corner squares inside the camera guide for instant grading, then export your **Summary.xlsx** or **Batch ZIP**.
+
+---
+
+## 💳 Pricing & Plans (No Recurring Fees)
+
+LeafyBeans OMR uses a **prepaid, pay-only-when-you-need-it** model — there are **no recurring fees, no auto-renewals, and no cancellation steps required**:
+
+* **Basic (Free Forever):** Includes **200 free scans every month**, custom sheet generation (1–200 items), full DepEd MPS & item analysis, Excel export, and Google Drive sync.
+* **1-Month Unlimited Free Trial:** Available once per eligible account with instant activation — **no card or payment info needed**, and it automatically reverts to the Basic free tier when it ends without charging you.
+* **Prepaid Premium Passes (`₱30 / 30 days` or `₱300 / 1 year`):** Unlocks unlimited monthly scans and appending late/make-up scans to saved batches (**Add Scans**). Paid via one-time **GCash or Maya** QR transfer with in-app receipt tracking — extend anytime, and remaining days automatically stack.
 
 ---
 
@@ -59,6 +67,7 @@ LeafyBeans OMR complies with the **Philippine Data Privacy Act of 2012 (RA 10173
 
 * **Zero Server-Side Grading Storage:** Image warping, bubble evaluation, Excel generation, and ZIP compression execute 100% locally in your device's browser memory.
 * **Restricted Google Drive Scope (`drive.file`):** The app can only access files and folders it creates inside your `LeafyBeans OMR Workspace` folder and cannot view any of your personal Google Drive files.
+* **No Stored Payment Credentials:** Because upgrades are manual one-time QR transfers, no credit/debit card details or auto-debit tokens are ever collected. Uploaded receipt screenshots are processed strictly in volatile server memory (RAM) for verification email forwarding and are never saved to server disk.
 
 ---
 
